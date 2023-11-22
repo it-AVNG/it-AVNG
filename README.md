@@ -26,7 +26,7 @@ Skills: Django / Django REST framework / Python/ JS / HTML / CSS
 - ⚡ Fun fact: "I like coding, it doesn't feel like work." 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/it-AVNG)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-AVNG&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-AVNG)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it-AVNG&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
