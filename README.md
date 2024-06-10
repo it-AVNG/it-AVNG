@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is An Vu Nguyen. But I preferred to be called "Aang".  
-#### I am self-taught Web developer.
+## Hi there 👋, my name is An Vu Nguyen. But I preferred to be called "Aang".  
+### I am a self-taught Web developer.
 
 I currently based in Viet Nam. In 2022 I have made a strategic decision to switch my career from industrial engineering to information technology, as I have found my passion for Web developing.
+Update: Currently, I am working as a python developer for Wissen infotech (Dec 2023 - present). My commits are in private and/or work related.
 
-Skills: Django / Django REST framework / Python/ JS / HTML / CSS
+Skills: Django / Django REST framework / Python / fastAPI / JS / HTML / CSS
 
-- 🔭 I’m currently working on My Django web development 
+- 🔭 I’m currently working on My Django web development
+- 🌱 I’m currently learning websockets
 - 🌱 I’m currently learning Data Sciences and Data Engineer 
 - 📫 How to reach me: anvunguyen.ade@gmail.com 
 - 😄 Pronouns: He/Him 
